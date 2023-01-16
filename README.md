@@ -1,2 +1,2 @@
 # chinmaybhagat.github.io
-Personal Resume
+This is my personal resume website.
